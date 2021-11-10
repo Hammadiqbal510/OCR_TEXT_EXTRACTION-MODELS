@@ -2,6 +2,58 @@
 TEXT RECOGNATION AND EXTRACTION WITH KERAS,TERNSORFLOW,CRNN,EASYOCR,pytesseract
 
 
+
+# Optical Character Recognition models
+
+In these models images will be provided and model will recognise the text and try to predict the exact output.
+we have two different models in our repositry
+## Model 1
+ In this model we used the python library of pytesseract and it helps to predict the text from different id card images.
+## Model 2
+in this model we have used EasyOcr technique to recognise text in the Nationa identity card image.
+
+## Model 3
+ In this model we used the python library of CRNN and it helps to predict the text from different CAPTHA IMAGES AND TRAIN MODELS.
+
+
+## Model 4
+ In this model we used the python library of TENSORFLOW and it helps to predict the text from CAPTHA IMAGES.
+
+
+## Model 5
+
+ In this model we used the python library of KERAS and it helps to predict the text from CAPTHA IMAGES.
+
+
+
+
+## Authors
+
+- [HAMMAD IQBAL](https://github.com/Hammadiqbal510/OCR_TEXT_EXTRACTION-MODELS)
+
+
+
+## 🛠 Skills
+- Deep learning
+- Python
+- OCR
+
+
+
+## Installation
+
+You have to install Python first then run the command mentioned bellow.
+
+```bash
+  git clone -----
+  cd my-project
+```
+Now you should install requirements.txt file to install dependencies
+
+```bash  
+  pip install -r requirements.txt
+```
+
 1.     OCR_CRNN :
 
 import glob
